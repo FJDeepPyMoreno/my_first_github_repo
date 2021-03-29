@@ -1,1 +1,3 @@
 Este es un fichero de prueba para el nuevo repo de Git.
+
+Esta línea nueva ha sido añadida en la rama feature-2
